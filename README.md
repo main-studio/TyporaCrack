@@ -17,7 +17,7 @@
 
 提取码：2am7 
 
-## 使用说明
+## 安装说明
 
 - ### Windows
 
@@ -32,6 +32,8 @@
   - 下载并安装即可
 
 ## 关闭自动更新
+
+安装完成以后，根据下图关闭检查自动更新，即可放心使用当前安装的版本
 
 ![](https://media.githubusercontent.com/media/main-studio/TyporaCrack/main/%E5%85%B3%E9%97%AD%E8%87%AA%E5%8A%A8%E6%9B%B4%E6%96%B0.png)
 
