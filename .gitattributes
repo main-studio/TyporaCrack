@@ -1,0 +1,6 @@
+README.md filter=lfs diff=lfs merge=lfs -text
+Windows filter=lfs diff=lfs merge=lfs -text
+关闭自动更新.png filter=lfs diff=lfs merge=lfs -text
+系统&版本.png filter=lfs diff=lfs merge=lfs -text
+Linux filter=lfs diff=lfs merge=lfs -text
+MacOS filter=lfs diff=lfs merge=lfs -text
