@@ -2,11 +2,16 @@
 
 涵盖多个系统多个版本，可从上方文件中自主选择下载
 
-如果下载过慢的话，可以从下方的网盘中下载
-
 ![](https://media.githubusercontent.com/media/main-studio/TyporaCrack/main/%E7%B3%BB%E7%BB%9F%26%E7%89%88%E6%9C%AC.png)
 
-## 网盘链接
+## 下载方式
+
+- ### GitHub
+![](https://raw.githubusercontent.com/main-studio/TyporaCrack/main/%E4%B8%8B%E8%BD%BD%E5%AE%89%E8%A3%85%E5%8C%85.png)
+
+- ### 百度网盘
+
+如果 GitHub 下载过慢的话，可以从下方的网盘中下载
 
 链接：https://pan.baidu.com/s/1QiEXJDArDpkC4V3m3VvxTA 
 
